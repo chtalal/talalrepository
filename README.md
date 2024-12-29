@@ -1,2 +1,3 @@
 # talalrepository
-This my first git repositry
+This my first git repositry.
+Author-CH-Talal
